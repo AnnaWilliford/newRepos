@@ -14,6 +14,5 @@ The folder [**quiz**](./quiz/) contains homwwork submissions.
 **Level:** Undergraduate - \<Freshman(1st year) / Sophomore(2nd year) / Junior(3rd year) / Senior(4th year)>  
 **ECL Class Position:** Student  
 **Course Webpage:** <http://www.shahmoradi.org/ECL2017S/>  
-**Photo:**
-
-![Amir Shahmoradi](../../images/amir.png)  
+**Photo:**  
+![Amir Shahmoradi](www.shahmoradi.org/ECL2017S/images/amir.png)  
