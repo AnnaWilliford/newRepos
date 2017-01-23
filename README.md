@@ -19,8 +19,8 @@ The folder [**quiz**](./quiz/) contains homwwork submissions.
 ![Amir Shahmoradi](http://www.shahmoradi.org/ECL2017S/images/amir.png)  
 
 <figure>
-	<img src="http://www.shahmoradi.org/ECL2017S/images/amir.png" width="900">
-    <figcaption>
-        <b>Amir Shahmoradi</b>).
+	<img src="http://www.shahmoradi.org/ECL2017S/images/amir.png" width="auto">
+    <figcaption style="align:center">
+        <b>Amir Shahmoradi</b>.
     </figcaption>
 </figure>
