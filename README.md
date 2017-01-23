@@ -15,4 +15,4 @@ The folder [**quiz**](./quiz/) contains homwwork submissions.
 **ECL Class Position:** Student  
 **Course Webpage:** <http://www.shahmoradi.org/ECL2017S/>  
 **Photo:**  
-![Amir Shahmoradi](www.shahmoradi.org/ECL2017S/images/amir.png)  
+![Amir Shahmoradi](http://www.shahmoradi.org/ECL2017S/images/amir.png)  
